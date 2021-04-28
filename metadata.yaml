@@ -1,0 +1,25 @@
+_repo: Early-Man-Projectile-Points-in-the-Southwest_65169
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Honea, Kenneth
+    gutenberg_agent_id: '53212'
+    url: http://www.gutenberg.org/2009/agents/53212
+description: ''
+gutenberg_issued: '2021-04-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65169'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Museum of New Mexico Press, Popular Series Pamphlet No. 4
+subjects:
+- !lcsh 'Arrowheads'
+- !lcc 'GN'
+- !lcsh 'Indians of North America -- Implements'
+- !lcsh 'Indians of North America -- Southwest, New'
+- GITenberg
+title: Early Man Projectile Points in the Southwest
+url: http://www.gutenberg.org/ebooks/65169
